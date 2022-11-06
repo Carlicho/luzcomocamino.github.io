@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/luzcomocamino.github.io/static/css/main.b90375c4.css",
+    "main.js": "/luzcomocamino.github.io/static/js/main.281a98d1.js",
+    "static/js/787.38ffcb1f.chunk.js": "/luzcomocamino.github.io/static/js/787.38ffcb1f.chunk.js",
+    "static/media/yogapng3.png": "/luzcomocamino.github.io/static/media/yogapng3.f06d43462029e1357680.png",
+    "static/media/reikipng.png": "/luzcomocamino.github.io/static/media/reikipng.db4f28930428632e2f53.png",
+    "static/media/beneficiosyoga.png": "/luzcomocamino.github.io/static/media/beneficiosyoga.a7fde05522ca5d82ee34.png",
+    "index.html": "/luzcomocamino.github.io/index.html",
+    "main.b90375c4.css.map": "/luzcomocamino.github.io/static/css/main.b90375c4.css.map",
+    "main.281a98d1.js.map": "/luzcomocamino.github.io/static/js/main.281a98d1.js.map",
+    "787.38ffcb1f.chunk.js.map": "/luzcomocamino.github.io/static/js/787.38ffcb1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90375c4.css",
+    "static/js/main.281a98d1.js"
+  ]
+}
